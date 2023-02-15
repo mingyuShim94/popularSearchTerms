@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "popularSearchTerms",
+    "slug": "popularSearchTerms",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "popularSearchTerms"
+}
