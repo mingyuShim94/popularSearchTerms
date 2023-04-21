@@ -1,11 +1,17 @@
 {
   "expo": {
     "name": "popularSearchTerms",
-    "slug": "popularSearchTerms",
+    "slug": "snack-3d624a23-493e-4f84-b996-c5d9b787f6a9",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "f57862b4-6f6d-44ac-9f95-8da042cbb861"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8647279125417942~7315575554"
   },
   "name": "popularSearchTerms"
 }
